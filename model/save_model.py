@@ -1,3 +1,6 @@
+import sys
+sys.path.append(r"C:\Users\Asus\Documents\Spam ML")
+
 import pickle
 from data_handling.data_transformation import cv, model
 
